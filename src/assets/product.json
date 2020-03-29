@@ -1,0 +1,162 @@
+{
+  "Shirts": [
+    {
+      "name": "HERE&NOW",
+      "price": "674",
+      "img_url": "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/4318138/2018/5/4/11525433792765-HERENOW-Men-Black-Printed-Round-Neck-T-shirt-2881525433792598-1.jpg"
+    },
+    {
+      "name": "Moda Rapido",
+      "price": "649",
+      "img_url": "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/2378362/2018/6/9/270e0a7e-365b-4640-9433-b269c60bf3061528527188563-Moda-Rapido-Men-Maroon-Printed-Round-Neck-T-shirt-3811528527-1.jpg"
+    },
+    {
+      "name": "Roadster",
+      "price": "299",
+      "img_url": "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/2275365/2019/9/10/4f24f563-c764-4f27-9fc5-9ad3dcf167621568108715062-Roadster-Men-White-Solid-Round-Neck-T-shirt-1641568108713591-1.jpg"
+    },
+    {
+      "name": "HRX by Hrithik",
+      "price": "699",
+      "img_url": "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/1700871/2018/6/19/18eb53a4-a9f3-49ce-9808-aec1e4f1af791529405407662-HRX-by-Hrithik-Roshan-Men-Teal-Blue-Striped-T-shirt-74152940-1.jpg"
+    },
+    {
+      "name": "Allen Solly",
+      "price": "999",
+      "img_url": "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/10976196/2019/12/3/fb87e6ab-7ff1-4f8d-ae81-652926b04d261575375776578-Allen-Solly-Casual-Polo-Tshirt-9841575375774551-1.jpg"
+    },
+    {
+      "name": "Crocodile",
+      "price": "1699",
+      "img_url": "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2019/11/25/5de146ef-4a1c-4312-99c3-cbe5f0b80a071574682433477-1.jpg"
+    }
+  ],
+  "Pants": [
+    {
+      "name": "Raodster",
+      "price": "1589",
+      "img_url": "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/7139512/2018/9/21/52ac3343-f859-4ac7-92f1-3d2451fe92951537510763979-Roadster-Men-Black-Skinny-Fit-Mid-Rise-Clean-Look-Stretchable-Jeans-1421537510763791-1.jpg"
+    },
+    {
+      "name": "HIGHLANDER",
+      "price": "649",
+      "img_url": "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2019/2/28/54565695-71b9-4dcf-bbc8-f5319e1c0a251551313925971-1.jpg"
+    },
+    {
+      "name": "Moda Rapido",
+      "price": "1399",
+      "img_url": "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/2387582/2019/4/12/6cb45527-ec15-493f-8b5f-bb0c4216092f1555063482439-Moda-Rapido-Men-Black-Slim-Fit-Cropped-Mid-Rise-Slash-Knee-S-1.jpg"
+    },
+    {
+      "name": "SPYKAR",
+      "price": "2899",
+      "img_url": "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/10929008/2019/11/27/5afaed73-3fe6-4c54-9b60-a50801f2ba921574847834087-SPYKAR-Men-Jeans-4691574847829464-1.jpg"
+    },
+    {
+      "name": "Flying Machine",
+      "price": "1699",
+      "img_url": "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/11039424/2019/12/10/15b0c87b-9666-4cd2-8a68-5adde7c4d9cb1575965465578-Flying-Machine-Men-Jeans-5221575965463216-1.jpg"
+    },
+    {
+      "name": "Campus Sutra",
+      "price": "1099",
+      "img_url": "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/1972830/2017/7/18/11500369671699-HERENOW-Men-Blue-Tapered-Fit-Mid-Rise-Slash-Knee-Jeans-2041500369671523-1.jpg"
+    }
+  ],
+  "Watches": [
+    {
+      "name": "MI",
+      "price": "2023",
+      "img_url": "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/9302913/2019/4/12/b4312eec-440a-459c-be39-085c9d340df41555073737088-Mi-Unisex-Fitness-Bands-3091555073736873-1.jpg"
+    },
+    {
+      "name": "TIMEX",
+      "price": "1299",
+      "img_url": "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/10670042/2019/9/26/9cc34425-526b-46cf-b5b9-448507e631ca1569498050999-Timex-Men-Watches-5091569498050069-1.jpg"
+    },
+    {
+      "name": "Daniel Klien",
+      "price": "3315",
+      "img_url": "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/2466430/2019/2/5/3fc19a1d-4d1b-483d-9671-bc1601eaa7d51549348453281-Daniel-Klein-Premium-Men-Coffee-Brown-Analogue-Watch-DK11599-1.jpg"
+    },
+    {
+      "name": "SCUDERIA Ferrari",
+      "price": "5950",
+      "img_url": "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/8823215/2019/4/25/7e9bb870-4f9d-4761-9691-6c4857f4d2b71556170646380-SCUDERIA-FERRARI-Unisex-Black-Analogue-Watch-830645_SF-14615-1.jpg"
+    },
+    {
+      "name": "Fossil",
+      "price": "19995",
+      "img_url": "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/2181835/2017/10/31/11509426621698-Fossil-Men-Smart-Watches-4111509426621582-1.jpg"
+    },
+    {
+      "name": "Armani Exchange",
+      "price": "11995",
+      "img_url": "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2019/11/20/e1115129-4d85-4663-8e2f-079e18e4b0a01574240450841-1.jpg"
+    }
+  ],
+  "Shoes": [
+    {
+      "name": "Addidas Originals",
+      "price": "29999",
+      "img_url": "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/8616761/2019/4/5/74b9d3cb-6f4d-4650-813e-2b2dd768b86b1554450210731-ADIDAS-Originals-Men-Charcoal-Grey-ZX-4000-4D-Shoes-34715544-1.jpg"
+    },
+    {
+      "name": "Rebbok Classic",
+      "price": "19999",
+      "img_url": "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/10465134/2019/12/9/6260a9be-c718-432d-8ff8-b1b8a467141e1575885256504-Reebok-Classic-Unisex-Black-Solid-Fury-DMX-L-Millennium-Snea-1.jpg"
+    },
+    {
+      "name": "DIESEL",
+      "price": "18040",
+      "img_url": "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/10698606/2019/11/8/2652040f-fcfd-4061-89f5-454bfdcdeaf91573200593730-DIESEL-Men-Green-Sneakers-991573200592419-1.jpg"
+    },
+    {
+      "name": "Nike",
+      "price": "19999",
+      "img_url": "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/9795917/2019/7/1/d46bf3fa-ba36-4a6b-993b-0f497863c2801561986026270-Nike-Women-Green--Yellow-Air-VaporMax-Flyknit-3-Sneakers-227-1.jpg"
+    },
+    {
+      "name": "DIESEL",
+      "price": "15599",
+      "img_url": "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/8474829/2019/9/16/d3df2491-4ad2-4d5c-b2cc-b5b623c062d71568625147335-DIESEL-Men-Casual-Shoes-4641568625146469-1.jpg"
+    },
+    {
+      "name": "Cole Haan",
+      "price": "15999",
+      "img_url": "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2019/11/25/7f95df38-95c6-4439-a0ad-e22b80837b001574662395078-1.jpg"
+    }
+  ],
+  "Suits": [
+    {
+      "name": "Park Avenue",
+      "price": "8799",
+      "img_url": "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/10977196/2019/12/11/29c8146f-9239-43ee-b978-5bf0406880851576058212491-Park-Avenue-Navy-Blue--White-Striped-Neo-Fit-Single-Breasted-1.jpg"
+    },
+    {
+      "name": "Next",
+      "price": "22000",
+      "img_url": "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2019/2/28/40a4433b-1efd-4443-898d-3a244a98ede91551300256708-1.jpg"
+    },
+    {
+      "name": "Louis Phillips",
+      "price": "18999",
+      "img_url": "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/11070336/2019/12/13/a0c88a17-81c4-4345-8e08-1ea50cafa5001576219860493-Louis-Philippe-Men-Suits-7251576219858901-1.jpg"
+    },
+    {
+      "name": "Van Huesen",
+      "price": "16999",
+      "img_url": "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/1546714/2016/11/4/11478257216491-Van-Heusen-Men-Navy-Slim-Fit-Single-Breasted-Suit-411478257216098-1.jpg"
+    },
+    {
+      "name": "RAYMOND",
+      "price": "16599",
+      "img_url": "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/6531571/2018/5/24/f970907d-9752-4b1a-a2f9-2bbecf491cc51527155942671-na-721527155942458-1.jpg"
+    },
+    {
+      "name": "Arrow New York",
+      "price": "11999",
+      "img_url": "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/1500344/2016/12/1/11480590724895-Arrow-New-York-Navy-Single-Breasted-Two-Piece-Formal-Suit-9631480590725456-1.jpg"
+    }
+  ]
+}
